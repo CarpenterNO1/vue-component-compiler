@@ -9,3 +9,5 @@ npm i
 
 npm run start
 ```
+# 运行
+![image](https://user-images.githubusercontent.com/97341937/151002655-8556370d-b60f-4a66-bbd6-0937d6d657ee.png)
